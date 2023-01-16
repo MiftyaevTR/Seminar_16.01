@@ -357,7 +357,7 @@ int result = GetSumChetnoe(newArray);
 Console.WriteLine("Сумма чётных элементов: " +  result);
 */
 // Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
-
+/*
 double [] CreaterandomArray ( int size, int minValue, int maxValue)
 {
     double[] array= new double[size];
@@ -396,3 +396,5 @@ double [] newArray = CreaterandomArray(m, min, max);
 ShowArray(newArray);
 double result = GetMaxMinDiffer(newArray);
 Console.WriteLine("Разницу между максимальным и минимальным элементом массива " +  result);
+*/
+
